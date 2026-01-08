@@ -1,6 +1,5 @@
 recipes = [
-    # Add your name and recipe here
-]
+    "Vasilis Rizos - Porridge with eggs and whey protein powder",]
 
 print("Welcome to the Team Cookbook!")
 print("Loaded recipes:")
