@@ -1,5 +1,6 @@
 recipes = [
-    "Vasilis Rizos - Porridge with eggs and whey protein powder",]
+    "Vasilis Rizos - Porridge with eggs and whey protein powder",
+    "Paraskevh Stamoulh - Pastitsio me tyri"]
 
 print("Welcome to the Team Cookbook!")
 print("Loaded recipes:")
